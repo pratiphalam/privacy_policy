@@ -1,2 +1,2 @@
-# privacy_policy
-Pratiphalam privacy policy
+# Pratiphalam
+Pratiphalam app privacy policy
